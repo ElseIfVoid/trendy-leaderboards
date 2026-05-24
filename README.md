@@ -85,10 +85,6 @@ HashBot uses the command prefix `^` (caret). Built-in commands:
 - `main.py` expects `DISCORD_TOKEN` to be present in the environment (it uses `python-dotenv` to load `.env`).
 - If fonts or image assets are not present, the cogs use Pillow's default fonts and a solid background.
 
-## Next steps (suggestions)
-- Add a `requirements.txt` lock or `pyproject.toml` for reproducible installs.
-- Add GitHub Actions to run flake8/pytest and a simple deploy workflow.
-- Add more cogs or trendy leaderboard styles (themes, colors, badges).
 
 ---
 
