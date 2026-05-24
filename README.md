@@ -96,7 +96,7 @@ Updated README to name the project `HashBot` and highlight trendy leaderboards.
 
 ## © Copyright
 
-© 2026 Jade.  
+© 2026 ElseIfVoid.  
 All rights reserved.
 
 
