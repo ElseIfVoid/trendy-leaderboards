@@ -1,4 +1,4 @@
-""" Copyright © 2026 Jade
+""" Copyright © 2026 ElseIfVoid
 
 All rights reserved.
 
